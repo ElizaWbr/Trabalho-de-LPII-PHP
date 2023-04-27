@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="meStyles.css">
+    <link rel="stylesheet" type="text/css" href="Styles.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -27,7 +27,7 @@
        </div>
        <div id="sessaodois">
            <?php 
-           echo"<a href='meLogoff.php?logoff=1'>Fazer logoff</a>";
+           echo"<a href='Logoff.php?logoff=1'>Fazer logoff</a>";
            ?>
         </div>
     </header>
